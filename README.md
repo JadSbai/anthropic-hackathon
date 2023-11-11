@@ -12,3 +12,7 @@ In its essence, HealthEcho is an assistant that gives non-intrusive second opini
 
 To enhance the medical knowledge of Claude-2, we leverage trust-worthy medical resources such as National Institute for Health and Care Excellence guidelines, GP Notebook and textbooks to enriched context. We combine traditional word-based search with vector search to ensure a diversity of relevant information is retrieved. 
 
+## Demo
+
+[![Demo Video](https://img.youtube.com/vi/1WSG55crHD0/0.jpg)](https://www.youtube.com/watch?v=1WSG55crHD0)
+
